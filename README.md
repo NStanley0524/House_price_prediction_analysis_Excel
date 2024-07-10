@@ -50,7 +50,7 @@ Bedroom	| 0.0726| 	Weak positive correlation
 
 Bathroom	| 0.0284| 	Weak positive correlation
 
-Year Built	| -0.0023| 	Weak positive correlation
+Year Built	| -0.0023| 	Weak negative correlation
 
 **Significant numerical variable after correlation analysis**
 
