@@ -91,6 +91,12 @@ H = 237,106
 The predicted price is 35,330 lower than the actual price
 
 
+## Actual Price vs Predicted Price
+
+![Screenshot 2024-07-10 175920](https://github.com/NStanley0524/House_price_prediction_analysis_Excel/assets/169830658/221abb04-301c-406e-b70d-9312c6328d5d)
+
+
+
 ## Conclusion
 The analysis above shows that Square feet has significant impact on the price of a house. The variable also showed positive relationship of 0.75 on the corellation analysis to the price of a house which means that the bigger the squarefeet, the higher the price of the house. Other numerical variables like Bedroom,Bathroom and Year built were not included in the final regression analysis because they lack statistical significance.
 
