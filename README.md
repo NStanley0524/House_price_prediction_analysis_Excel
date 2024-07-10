@@ -71,6 +71,7 @@ However, 43% of variance in the dependent variable can be attributed to other va
 Dependent variable(House price) = Coefficient of Intercept + (99.322 * Squarefeet) 
 
 **Testing the model using prediction**
+
 • Squarefeet: 2126
 
 **Using the regression model equation**
