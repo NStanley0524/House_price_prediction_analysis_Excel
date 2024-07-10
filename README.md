@@ -5,6 +5,13 @@ Regression analysis to predict the price of house using independent variables
 ## Introduction
 This analysis is meant to understand the influence of significant variables on the price of a house and how well these variables can be used to predict the price of the house
 
+
+## Aims and objectives
+1. This analysis is aimed at identifying diffderent variables that contribute to the price of the house
+2. Understanding how much variance in the  dependent variable that can be attributed to the independent variable
+3. Developing a model that could accurately predict the price of the house in this dataset
+
+
 ## Understanding the data structure
 This dataset is gotten from Kaggle. This dataset contains the price of the house as well as other significant variables. Other significant variables can be seen below:
 
