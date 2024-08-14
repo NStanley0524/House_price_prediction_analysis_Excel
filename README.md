@@ -64,7 +64,7 @@ The dataset conatains 1 categorical variable and it was converted to dummy varia
 ## Final regression analysis result
 The multiple-R value of **0.75** shows that there exist a strong relationship between the variable and the house price. The *R square* value shows that **57%** of variance in the house price is influenced by the independent variable which is squarefeet. The *p-value* strongly agree with this with a p-value of 0. 
 
-However, 43% of variance in the dependent variable can be attributed to other variables not in the dataset.
+However, 43% of variance in the dependent variable can be attributed to other variables not in the dataset like location, market trends etc.
 
 **Linear Regression Model Equation**
 
