@@ -98,6 +98,12 @@ The predicted price is 21,354 higher than the actual price
 
 
 
+## Limitations of the Analysis
+The dataset used for this analysis includes only a few key features: Square feet, Bedrooms, Bathrooms, Year built, and Neighborhood. While these features are significant, they don't capture the full range of factors that influence house prices. Important variables such as property taxes, proximity to schools, public transportation, crime rates, and other amenities are missing. The absence of these variables limits the model's ability to fully explain the variation in house prices.
+
+The analysis shows that **59%** of the variance in house prices can be attributed to the Square Footage. While this is a significant proportion, it suggests that **41%** of the variation is due to factors not captured in this model. In real-world scenarios, house prices are influenced by a multitude of factors, and a higher R-squared value would likely be achieved with a more comprehensive dataset.
+
+
 ## Conclusion
 The analysis above shows that Square feet has significant impact on the price of a house. The variable also showed positive relationship of 0.75 on the corellation analysis to the price of a house which means that the bigger the squarefeet, the higher the price of the house. Other numerical variables like Bedroom,Bathroom and Year built were not included in the final regression analysis because they lack statistical significance.
 
